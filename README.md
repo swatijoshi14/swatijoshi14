@@ -1,16 +1,15 @@
-## Hi there 👋
+# 🌸 Hey there, I'm Swati!
 
-<!--
-**swatijoshi14/swatijoshi14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my little corner of GitHub!
 
-Here are some ideas to get you started:
+I'm a Computer Science Engineering graduate exploring **Data Analytics** and
+figuring things out one dataset at a time. 📊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here you'll find:
+
+- 🔍 Data analytics projects
+- 📈 Power BI dashboards
+- 🐍 Python & SQL projects
+- 🌱 Things I'm learning along the way
+
+**Let's learn, build, and grow — one project at a time! ✨**
